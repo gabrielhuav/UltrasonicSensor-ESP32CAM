@@ -1,6 +1,4 @@
-# UltrasonicSensor-ESP32CAM-MQTT
-
-
+# Ultrasonic Sensor ESP32CAM MQTT
 
 ## Referencias, software y material:
 
