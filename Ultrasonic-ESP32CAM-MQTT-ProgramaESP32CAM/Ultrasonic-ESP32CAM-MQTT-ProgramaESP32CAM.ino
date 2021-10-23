@@ -23,8 +23,8 @@
 #include <Ultrasonic.h> //Biblioteca para conectarse al sensor
 
 //Datos de WiFi
-const char* ssid = "TP-LINK-HA";  // Aquí debes poner el nombre de tu red
-const char* password = "4141727259UP";  // Aquí debes poner la contraseña de tu red
+const char* ssid = "************";  // Aquí debes poner el nombre de tu red
+const char* password = "************";  // Aquí debes poner la contraseña de tu red
 
 //Datos del broker MQTT
 const char* mqtt_server = "192.168.1.106"; // Si estas en una red local, coloca la IP asignada, en caso contrario, coloca la IP publica
